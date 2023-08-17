@@ -19,7 +19,7 @@ public class GameManager : MonoBehaviour
     
     private Vector3 _force;
     private const float SideMovementParameter = 0.4f;
-    private const int ForwardSpeed = 28;
+    private const int ForwardSpeed = 30;
     
     private void Start()
     {
